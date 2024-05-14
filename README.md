@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning full stack "https://cdn.pixabay.com/photo/2022/03/21/21/44/file-7084006_1280.png" width="70">
+- 🌱 I’m currently learning full stack # <img src="https://cdn.pixabay.com/photo/2022/03/21/21/44/file-7084006_1280.png" width="50">
 - 💬 Ask me about ...
 - 📫 How to reach me: # Welkome to Hugo´s GitHub
 
