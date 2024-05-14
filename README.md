@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning full stack
 - 💬 Ask me about ...
-- 📫 How to reach me: <img src="<img src="https://www.flaticon.es/icono-gratis/html_186320?term=html&page=1&position=8&origin=search&related_id=186320" width="70"> Welkome to Hugo´s GitHub
+- 📫 How to reach me: <img src="<img src="https://cdn.pixabay.com/photo/2022/03/21/21/44/file-7084006_1280.png" width="70"> Welkome to Hugo´s GitHub
 
 " width="70"> Welkome to Hugo´s GitHub
 
