@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning full stack  <img src="https://cdn.pixabay.com/photo/2022/03/21/21/44/file-7084006_1280.png" width="40"> <img src="https://cdn.pixabay.com/photo/2022/03/21/21/44/file-7084005_1280.png" width="40">
   
 - 📫 How to reach me: Gmail <img src="https://cdn.pixabay.com/photo/2021/05/04/11/13/gmail-6228341_1280.png" width="40"> Facebook<img src="https://cdn.pixabay.com/photo/2017/06/22/06/22/facebook-2429746_1280.png" width="40">
-- Studies: Degree in business management and administration. Diploma in Business Studies. Accounting specialty. Worked for 5 years in Cork, Ireland.
+- :sweat_smile: Studies: Degree in business management and administration. Diploma in Business Studies. Accounting specialty. Worked for 5 years in Cork, Ireland.
 
   
 
